@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: module-rest
+
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui.html
