@@ -38,7 +38,7 @@
         <protobuf.version>4.29.3</protobuf.version>
         <grpc.version>1.70.0</grpc.version>
         <lombok.version>1.18.38</lombok.version>
-        <spotless.version>2.44.3</spotless.version>
+        <spotless.version>3.0.0</spotless.version>
     </properties>
 
     <dependencyManagement>
